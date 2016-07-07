@@ -1,0 +1,786 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\MTE241\Snake\snake.uvproj
+Project File Date:  07/07/2016
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling Retarget.c...
+Retarget.c(20): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling uart.c...
+uart.h(25): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling main.c...
+main.c(17): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+linking...
+Program Size: Code=5188 RO-data=6664 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 3 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+No Algorithm found for: 00000000H - 00002E7BH
+Erase skipped!
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling Retarget.c...
+Retarget.c(20): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling uart.c...
+uart.h(25): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling main.c...
+main.c(17): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+linking...
+Program Size: Code=5188 RO-data=6664 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 3 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+No Algorithm found for: 00000000H - 00002E7BH
+Erase skipped!
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+No Algorithm found for: 00000000H - 00002E7BH
+Erase skipped!
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling Retarget.c...
+Retarget.c(20): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling uart.c...
+uart.h(25): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling main.c...
+main.c(17): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+linking...
+Program Size: Code=5188 RO-data=6664 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 3 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+No Algorithm found for: 00000000H - 00002E7BH
+Erase skipped!
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(17): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5188 RO-data=6664 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(36): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5192 RO-data=7460 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(36): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5192 RO-data=7460 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(28): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5204 RO-data=6848 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(13): error:  #20: identifier "node_t" is undefined
+main.c(23): error:  #154: expression must have struct or union type
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(13): error:  #40: expected an identifier
+main.c(13): error:  #77-D: this declaration has no storage class or type specifier
+main.c(13): error:  #65: expected a ";"
+main.c(23): error:  #154: expression must have struct or union type
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(29): error:  #136: struct "node_t" has no field "next"
+main.c(52): error:  #136: struct "node_t" has no field "next"
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(13): error:  #77-D: this declaration has no storage class or type specifier
+main.c(13): error:  #65: expected a ";"
+main.c(23): error:  #154: expression must have struct or union type
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(29): error:  #136: struct "node_t" has no field "next"
+main.c(52): error:  #136: struct "node_t" has no field "next"
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(13): error:  #20: identifier "node_t" is undefined
+main.c(23): error:  #154: expression must have struct or union type
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(23): error:  #154: expression must have struct or union type
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(27): error:  #154: expression must have struct or union type
+main.c(28): error:  #154: expression must have struct or union type
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(61): error:  #20: identifier "cross_bitmap" is undefined
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+main.c(35): warning:  #177-D: variable "bitmap" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(68): error:  #20: identifier "cross_bitmap" is undefined
+main.c(72): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(72): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5240 RO-data=6812 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(72): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5236 RO-data=6816 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(65): warning:  #111-D: statement is unreachable
+main.c(72): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5228 RO-data=6824 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(78): warning:  #111-D: statement is unreachable
+main.c(85): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=5256 RO-data=6996 RW-data=48 ZI-data=4224  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(74): warning:  #223-D: function "delay" declared implicitly
+main.c(79): warning:  #111-D: statement is unreachable
+main.c(86): warning:  #1-D: last line of file ends without a newline
+linking...
+Project3.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+_____^
+*** error 56: cannot open file
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'Target 1'
+linking...
+Project3.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+_____^
+*** error 56: cannot open file
+Build target 'Target 1'
+compiling main.c...
+main.c(75): warning:  #223-D: function "delay" declared implicitly
+main.c(80): warning:  #111-D: statement is unreachable
+main.c(87): warning:  #1-D: last line of file ends without a newline
+linking...
+Project3.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling Retarget.c...
+Retarget.c(20): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling uart.c...
+uart.h(25): warning:  #47-D: incompatible redefinition of macro "__RTGT_UART"
+compiling main.c...
+main.c(36): error:  #20: identifier "tick_counter" is undefined
+main.c(84): warning:  #111-D: statement is unreachable
+main.c(91): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(84): warning:  #111-D: statement is unreachable
+main.c(91): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6720 RO-data=6948 RW-data=84 ZI-data=22436  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(84): warning:  #111-D: statement is unreachable
+main.c(91): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6724 RO-data=6948 RW-data=84 ZI-data=22436  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(85): warning:  #111-D: statement is unreachable
+main.c(92): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6724 RO-data=6948 RW-data=84 ZI-data=22436  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(85): warning:  #111-D: statement is unreachable
+main.c(92): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6724 RO-data=6948 RW-data=84 ZI-data=22436  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(85): warning:  #111-D: statement is unreachable
+main.c(92): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6864 RO-data=6948 RW-data=84 ZI-data=22436  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(37): error:  #167: argument of type "unsigned int" is incompatible with parameter of type "const char *restrict"
+main.c(38): error:  #167: argument of type "U32" is incompatible with parameter of type "const char *restrict"
+main.c(87): warning:  #111-D: statement is unreachable
+main.c(94): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(37): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(37): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(38): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(38): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(87): warning:  #111-D: statement is unreachable
+main.c(94): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(37): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(37): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(38): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(38): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(88): warning:  #111-D: statement is unreachable
+main.c(95): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(37): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(37): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(38): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(38): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(88): warning:  #111-D: statement is unreachable
+main.c(95): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(37): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(37): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(38): warning:  #2548-D: multicharacter character literal (potential portability problem)
+main.c(38): error:  #167: argument of type "int" is incompatible with parameter of type "const char *restrict"
+main.c(88): warning:  #111-D: statement is unreachable
+main.c(95): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(88): warning:  #111-D: statement is unreachable
+main.c(95): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7324 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(90): warning:  #111-D: statement is unreachable
+main.c(97): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7324 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(91): warning:  #111-D: statement is unreachable
+main.c(98): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7328 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=7328 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 0 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(91): warning:  #111-D: statement is unreachable
+main.c(98): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7332 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(91): warning:  #111-D: statement is unreachable
+main.c(98): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7336 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(91): warning:  #111-D: statement is unreachable
+main.c(98): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7336 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(91): warning:  #111-D: statement is unreachable
+main.c(98): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7336 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(39): error:  #154: expression must have struct or union type
+main.c(39): error:  #154: expression must have struct or union type
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #147: declaration is incompatible with "node_t head" (declared at line 84)
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(39): error:  #154: expression must have struct or union type
+main.c(39): error:  #154: expression must have struct or union type
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #147: declaration is incompatible with "node_t head" (declared at line 84)
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #147: declaration is incompatible with "node_t head" (declared at line 84)
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(115): error:  #169: expected a declaration
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #147: declaration is incompatible with "node_t head" (declared at line 84)
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(115): error:  #169: expected a declaration
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #147: declaration is incompatible with "node_t head" (declared at line 84)
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(115): error:  #169: expected a declaration
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(84): error:  #268: declaration may not appear after executable statement in block
+main.c(53): warning:  #177-D: variable "bitmap" was declared but never referenced
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+main.c(76): warning:  #177-D: variable "i" was declared but never referenced
+main.c(78): warning:  #550-D: variable "snake" was set but never used
+main.c(79): warning:  #550-D: variable "head" was set but never used
+main.c(84): error:  #67: expected a "}"
+main.c(85): error:  #77-D: this declaration has no storage class or type specifier
+main.c(85): error:  #147: declaration is incompatible with "node_t body" (declared at line 84)
+main.c(85): error:  #65: expected a ";"
+main.c(86): error:  #77-D: this declaration has no storage class or type specifier
+main.c(86): error:  #65: expected a ";"
+main.c(87): error:  #77-D: this declaration has no storage class or type specifier
+main.c(87): error:  #65: expected a ";"
+main.c(89): error:  #77-D: this declaration has no storage class or type specifier
+main.c(89): error:  #65: expected a ";"
+main.c(91): error:  #77-D: this declaration has no storage class or type specifier
+main.c(91): error:  #65: expected a ";"
+main.c(93): warning:  #1295-D: Deprecated declaration SystemInit - give arg types
+main.c(93): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(93): error:  #147: declaration is incompatible with "void SystemInit(void)" (declared at line 51 of "C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h")
+main.c(94): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(94): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(94): error:  #147: declaration is incompatible with "void GLCD_Init(void)" (declared at line 42 of "glcd.h")
+main.c(96): error:  #169: expected a declaration
+main.c(109): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(110): warning:  #1295-D: Deprecated declaration GLCD_Init - give arg types
+main.c(110): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #79: expected a type specifier
+main.c(111): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(111): error:  #147: declaration is incompatible with "void GLCD_Clear(unsigned short)" (declared at line 47 of "glcd.h")
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): error:  #79: expected a type specifier
+main.c(112): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(112): error:  #147: declaration is incompatible with "void GLCD_Bitmap(unsigned int, unsigned int, unsigned int, unsigned int, unsigned char *)" (declared at line 53 of "glcd.h")
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): error:  #79: expected a type specifier
+main.c(113): warning:  #77-D: this declaration has no storage class or type specifier
+main.c(115): error:  #169: expected a declaration
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(112): warning:  #111-D: statement is unreachable
+main.c(119): warning:  #1-D: last line of file ends without a newline
+main.c(64): warning:  #177-D: variable "BG_bitmap" was declared but never referenced
+linking...
+Program Size: Code=7316 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(103): warning:  #223-D: function "Display" declared implicitly
+main.c(112): warning:  #111-D: statement is unreachable
+main.c(119): warning:  #1-D: last line of file ends without a newline
+linking...
+Project3.axf: Error: L6218E: Undefined symbol Display (referred from main.o).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(103): warning:  #223-D: function "Display" declared implicitly
+main.c(112): warning:  #111-D: statement is unreachable
+main.c(119): warning:  #1-D: last line of file ends without a newline
+linking...
+Project3.axf: Error: L6218E: Undefined symbol Display (referred from main.o).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(112): warning:  #111-D: statement is unreachable
+main.c(119): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7364 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+main.c(112): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7364 RO-data=6948 RW-data=96 ZI-data=22432  
+"Project3.axf" - 0 Error(s), 1 Warning(s).
+Load "N:\\MTE241\\Snake\\Project3.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
