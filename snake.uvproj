@@ -436,6 +436,11 @@
               <FileType>1</FileType>
               <FilePath>.\GLCD_SPI_LPC1700.c</FilePath>
             </File>
+            <File>
+              <FileName>KBD.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\KBD.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>

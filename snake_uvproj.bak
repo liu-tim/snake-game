@@ -431,6 +431,11 @@
               <FileType>1</FileType>
               <FilePath>.\RTX_Conf_CM.c</FilePath>
             </File>
+            <File>
+              <FileName>GLCD_SPI_LPC1700.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\GLCD_SPI_LPC1700.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
