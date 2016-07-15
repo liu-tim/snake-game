@@ -441,6 +441,11 @@
               <FileType>1</FileType>
               <FilePath>.\KBD.c</FilePath>
             </File>
+            <File>
+              <FileName>LED.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LED.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
