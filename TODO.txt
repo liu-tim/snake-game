@@ -1,7 +1,0 @@
-TODO:
-
-How to Display Stuff on LCD Display
-How to process user inputs
-Keep track of position of snake
-
-Try to get line moving across screen
